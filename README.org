@@ -1,0 +1,7 @@
+*** README - TODO Tasks
+Small to - do list for the project
+- Work with logs .. include a log file in graylog
+- Build a simple web application that has a threat map and could plot all locations based on geoloacation tag
+- work on exporting the APIs of graylog
+- Download data from combine scripts
+- Collate data from Facebook, tweepy, combine
